@@ -1,0 +1,23 @@
+{
+  "name": "cmerge",
+  "version": "1.0.0",
+  "description": "readme edit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kartik18g/cmerge.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kartik18g/cmerge/issues"
+  },
+  "homepage": "https://github.com/Kartik18g/cmerge#readme",
+  "dependencies": {
+    "can-merge": "file:../../can-merge-main"
+  }
+}
